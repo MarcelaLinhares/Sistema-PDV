@@ -1,0 +1,70 @@
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Pedido</title>
+
+		<style>
+			* {
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+			}
+
+			img {
+				height: 100px;
+				object-fit: cover;
+			}
+
+			div {
+				margin: 10px;
+			}
+
+			h2 {
+				font-weight: bold;
+			}
+			p {
+				font-size: 20px;
+			}
+			.marca {
+				color: rgb(202, 146, 240);;
+				font-weight: bold;
+			}
+			.valor {
+				color: rgb(202, 146, 240);;
+			}
+
+			img {
+            width: 15%; 
+            height: auto; 
+        }
+
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div>
+				<h1 class="cliente">Olá, {{nomecliente}}</h1>
+			</div>
+			<div>
+				<p>
+					Seu pedido foi efetuado com sucesso!
+				</p>
+			</div>
+			<div>
+				<h1>Detalhes do Pedido: </h1>
+			</div>
+			<div>
+				<h2>Pedido: #{{pedido}}</h2>
+				<h2>Observação: {{observacao}}</h2>
+			</div>
+			<div>
+				<h2 class="valor">Valor total: {{valor}}</h2>
+				<div class="gif-container">
+					<img src="https://i.gifer.com/3b4.gif" alt="GIF" />
+				</div>
+				<div class="gif-container">
+					<img src="https://media.discordapp.net/attachments/1183107153263870012/1183441905149808781/text.gif?ex=65885929&is=6575e429&hm=fadc6bcd2812bef5fedf6a03bd6e043ff355d9bfb3eca7c39e957855d3d95b58&=" alt="GIF" />
+				</div>
+	</body>
+</html>
