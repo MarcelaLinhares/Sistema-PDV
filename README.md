@@ -13,3 +13,11 @@ A RESTful API foi desenvolvida para atender às necessidades de um PDV (Frente d
 * Cadastrar produto
 * Editar dados do produto
 * Listar produtos
+* Detalhar produto
+* Excluir produto por ID
+* Cadastrar cliente
+* Editar dados do cliente
+* Listar clientes
+* Detalhar cliente
+* Cadastrar pedido
+* Listar pedido
