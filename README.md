@@ -6,6 +6,8 @@
 
 - [Linguagens e Ferramentas utilizadas](#-linguagens-e-ferramentas-utilizadas)
 
+- [Executando o projeto](#-executando-o-projeto)
+
 ## 📂 Descrição do projeto
 Este projeto foi desenvolvido como Desafio Final do Módulo 05 do curso de Desenvolvimento de Software com foco em Back-end na Cubos Academy. O objetivo principal foi proporcionar prática no fluxo de trabalho em equipe, aplicando metodologias ágeis como o Kanban e Scrum, e explorando o uso de branches para gerenciamento de versões e resolução de conflitos. O projeto foi estruturado em três sprints, cada uma com duração de uma semana, para garantir uma abordagem iterativa e eficiente no desenvolvimento. Como Líder da equipe CodeIn5, tive a oportunidade de contribuir significativamente para o projeto, especialmente na organização das sprints através das metodologias ágeis, além de compartilhar conhecimento sobre a criação e manipulação das branches, e principalmente na motivação do trabalho em equipe. O resultado do nosso esforço conjunto foi reconhecido com o prêmio 🏆 de "Dream Team".
 
@@ -38,3 +40,30 @@ A RESTful API foi desenvolvida para atender às necessidades de um PDV (Frente d
 ![insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Beekeeper](https://img.shields.io/badge/beekeeper-0D1117?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAFNUExURQAAAP//a/rXOvPUOejMN/jWOvjWOenQOP/fPP3VOf/nOf/xP+zSOPzYOvvYOo98IfTTOfjWOvjWOfjWOffWOf//R1xQFUc+EO7NN/jWOvjWOfjWOffWOfjWOf/cO5J+IvjWOfjWOfjWOffWOfjWOfjWOvfWOfjWOvjWOvnXO/nXOvjWOvfWOfjWOfjWOfjWOfjWOfjWOvfWOfjWOfjWOfjWOvfWOfjWOfjWOfnXOjoyDe/ON/vYOvzZOv3aO5WBIjkxDd7AM8esLpJ+ItC0MPrYOvjWOZaBIzUuDKONJqSOJj83DiQfCJSAIvXTOTcvDM2xL/HQOObGNXppHBUTBcCmLO/PN/rXOvvZOuTFNSokCZqFJJiDIyslCuXGNeXFNbyiKxQRBH5sHefHNX1sHRUSBb+lLPTSOI57ISMeCJF9IfTTOXtrHM+zMP///548sBYAAAA5dFJOUwAAAAAAAAAAAAAAAAAAABqI7eyGGQpYx/v7xlYKNa729qw0KtTSKWH6aPxiK9U3sPf3C1rJ/ByK7y1GWkAAAAABYktHRG4iD1EXAAAAB3RJTUUH5wkZEwMcxtjpWwAAAJtJREFUCB0FwdtKw0AUQNG9JydOW6wIUgUviOiL4P//iC8iiC0iFQURvFBCMse1BDxQ9dMJw0P1irX6rrOVnqk5bXXrtaeq6s/y2QiZqer8o8soQlXVKBnA7vtcVSGACx3Yaw0IyNAeNaGUNtZah+Gt78dWupPu6KV+HbN63Cz/cHGj88tXctq1fHJ/uFODMTPvq9AtbpXMh9+Jf7viMqPTlzUXAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIzLTA5LTI1VDE5OjAzOjI4KzAwOjAwxaUCOQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMy0wOS0yNVQxOTowMzoyOCswMDowMLT4uoUAAAAodEVYdGRhdGU6dGltZXN0YW1wADIwMjMtMDktMjVUMTk6MDM6MjgrMDA6MDDj7ZtaAAAAAElFTkSuQmCC&logoColor=5849BE)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 📤 Executando o projeto
+
+Para começar a utilizar a RESTful API de Controle Financeiro Dindin na sua máquina, siga estas etapas:
+
+```shell
+# 1. Faça o Fork do repositório
+
+# 2. Clone o projeto
+
+git clone <um-dos-links-abaixo>
+
+HTTPS:
+https://github.com/MarcelaLinhares/Sistema-PDV.git
+
+SSH:
+git@github.com:MarcelaLinhares/Sistema-PDV.git
+
+# 3. No VS Code instale as dependências
+
+npm install
+
+# 4. Execute o servidor
+
+npm run start
+
+```
