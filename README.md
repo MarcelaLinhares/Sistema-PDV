@@ -1,5 +1,5 @@
 ># Sistema-PDV
-## Menu
+## 🎯 Menu
 - [Descrição do projeto](#-descrição-do-projeto)
   
 - [Funcionalidades](#-funcionalidades)
