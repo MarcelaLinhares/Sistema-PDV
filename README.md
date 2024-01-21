@@ -74,5 +74,15 @@ npm run start
 Comandos SQL para a criação do Banco de Dados "pdv" e de suas respectivas tabelas no software Beekeeper ou em um software similar.
 - [ ] Banco de Dados pdv
 ```sql
-CREATE DATABASE pdv;
+create database pdv;
+```
+
+- [ ] Tabela de Usuários
+```sql
+create table usuarios (
+    id serial primary key,
+    nome text not null,
+    email text not null unique,
+    senha text not null
+);
 ```
