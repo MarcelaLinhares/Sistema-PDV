@@ -45,7 +45,7 @@ A RESTful API foi desenvolvida para atender às necessidades de um PDV (Frente d
 
 ## 📤 Executando o projeto
 
-Para começar a utilizar a RESTful API de Controle Financeiro Dindin na sua máquina, siga estas etapas:
+Para começar a utilizar a RESTful API do Sistema PDV na sua máquina, siga estas etapas:
 
 ```shell
 # 1. Faça o Fork do repositório
@@ -84,5 +84,12 @@ create table usuarios (
     nome text not null,
     email text not null unique,
     senha text not null
+);
+```
+- [ ] Tabela de Categorias
+```sql
+create table categorias (
+    id serial primary key,
+    descricao varchar(255) not null
 );
 ```
