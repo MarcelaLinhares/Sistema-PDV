@@ -93,3 +93,13 @@ create table categorias (
     descricao varchar(255) not null
 );
 ```
+- [ ] Tabela de Produtos
+```sql
+create table produtos (
+    id serial primary key,
+    descricao varchar(255) not null,
+    quantidade_estoque integer not null,
+    valor integer not null,
+    categoria_id integer not null references categorias(id)
+);
+```
