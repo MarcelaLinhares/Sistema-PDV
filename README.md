@@ -118,3 +118,12 @@ create table clientes (
     estado char(2)
 );
 ```
+- [ ] Tabela de Pedidos
+```sql
+create table pedidos (
+    id serial primary key,
+    cliente_id integer not null references clientes(id),
+    observacao text,
+    valor_total integer not null
+);
+```
