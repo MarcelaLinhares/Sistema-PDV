@@ -127,3 +127,13 @@ create table pedidos (
     valor_total integer not null
 );
 ```
+- [ ] Tabela de Pedidos_Produtos
+```sql
+create table pedido_produtos (
+    id serial primary key,
+    pedido_id integer not null references pedidos(id),
+    produto_id integer not null references produtos(id),
+    quantidade_produto integer not null,
+    valor_produto integer not null
+);
+```
