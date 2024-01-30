@@ -100,7 +100,8 @@ create table produtos (
     descricao varchar(255) not null,
     quantidade_estoque integer not null,
     valor integer not null,
-    categoria_id integer not null references categorias(id)
+    categoria_id integer not null references categorias(id),
+    produto_imagem varchar(255)
 );
 ```
 - [ ] Tabela de Clientes
