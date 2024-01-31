@@ -138,3 +138,16 @@ create table pedido_produtos (
     valor_produto integer not null
 );
 ```
+- [ ] Inserção das Categorias
+```sql
+insert into categorias (descricao) values
+    ('Informática'),
+    ('Celulares'),
+    ('Beleza e Perfumaria'),
+    ('Mercado'),
+    ('Livros e Papelaria'),
+    ('Brinquedos'),
+    ('Moda'),
+    ('Bebê'),
+    ('Games');
+```
