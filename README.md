@@ -10,6 +10,8 @@
 
 - [Banco de Dados PostgreSQL "pdv"](#-banco-de-dados-postgresql-pdv)
 
+- [Desenvolvedoras](#-desenvolvedoras)
+
 ## 📂 Descrição do projeto
 Este projeto foi desenvolvido como Desafio Final do Módulo 05 do curso de Desenvolvimento de Software com foco em Back-end na Cubos Academy. O objetivo principal foi proporcionar prática no fluxo de trabalho em equipe, aplicando metodologias ágeis como o Kanban e Scrum, e explorando o uso de branches para gerenciamento de versões e resolução de conflitos. O projeto foi estruturado em três sprints, cada uma com duração de uma semana, para garantir uma abordagem iterativa e eficiente no desenvolvimento. Como Líder da equipe CodeIn5, tive a oportunidade de contribuir significativamente para o projeto, especialmente na organização das sprints através das metodologias ágeis, além de compartilhar conhecimento sobre a criação e manipulação das branches, e principalmente na motivação do trabalho em equipe. O resultado do nosso esforço conjunto foi reconhecido com o prêmio 🏆 de "Dream Team".
 
@@ -151,3 +153,17 @@ insert into categorias (descricao) values
     ('Bebê'),
     ('Games');
 ```
+
+## 👩‍💻 Desenvolvedoras
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/MarcelaLinhares"><img src="https://avatars.githubusercontent.com/u/141354578?v=4" width="50px;" alt=""/><br /><sub><b>Marcela Linhares</b></sub></a><br /></td>
+   
+  <td align="center"><a href="https://github.com/debora-silva1"><img src="https://avatars.githubusercontent.com/u/141377695?v=4" width="50px;" alt=""/><br /><sub><b>Débora Silva</b></sub></a><br /></td>
+
+   <td align="center"><a href="https://github.com/bruna-rferreira"><img src="https://avatars.githubusercontent.com/u/140118879?v=4" width="50px;" alt=""/><br /><sub><b>Bruna Ferreira</b></sub></a><br /></td>
+
+  <td align="center"><a href="https://github.com/KarolayneADP"><img src="https://avatars.githubusercontent.com/u/141368283?v=4" width="50px;" alt=""/><br /><sub><b>Karolayne Arantes</b></sub></a><br /></td>
+
+  <td align="center"><a href="https://github.com/HD9312A"><img src="https://avatars.githubusercontent.com/u/133888926?v=4" width="50px;" alt=""/><br /><sub><b>Thaís Paixão</b></sub></a><br /></td>
