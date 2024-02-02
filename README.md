@@ -10,6 +10,8 @@
 
 - [Banco de Dados PostgreSQL "pdv"](#-banco-de-dados-postgresql-pdv)
 
+- [Contribua com o Projeto](#-contribua-com-o-projeto)
+
 - [Desenvolvedoras](#-desenvolvedoras)
 
 ## 📂 Descrição do projeto
@@ -153,6 +155,12 @@ insert into categorias (descricao) values
     ('Bebê'),
     ('Games');
 ```
+
+## 🤝 Contribua com o Projeto
+
+- [ ] Realize o Fork
+- [ ] Faça as modificações
+- [ ] Realize o Pull Request (PR)
 
 ## 👩‍💻 Desenvolvedoras
 
