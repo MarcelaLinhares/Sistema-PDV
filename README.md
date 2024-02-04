@@ -10,6 +10,8 @@
 
 - [Banco de Dados PostgreSQL "pdv"](#-banco-de-dados-postgresql-pdv)
 
+- [Endpoints no Insomnia](#-endpoints-no-insomnia)
+
 - [Contribua com o Projeto](#-contribua-com-o-projeto)
 
 - [Desenvolvedoras](#-desenvolvedoras)
@@ -155,6 +157,12 @@ insert into categorias (descricao) values
     ('Bebê'),
     ('Games');
 ```
+
+## 📑 Endpoints no Insomnia
+Para realizar as requisições com os verbos GET, POST, PUT, DELETE use o framework Insomnia ou similar.
+
+Abra o insomnia e use o caminho (URL Base):
+http://localhost:3000/
 
 ## 🤝 Contribua com o Projeto
 
