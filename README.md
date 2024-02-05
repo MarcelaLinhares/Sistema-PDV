@@ -12,6 +12,8 @@
 
 - [Endpoints no Insomnia](#-endpoints-no-insomnia)
 
+- [Dados armazenados no Banco de Dados "pdv"](#-dados-armazenados-no-banco-de-dados-pdv)
+
 - [Contribua com o Projeto](#-contribua-com-o-projeto)
 
 - [Desenvolvedoras](#-desenvolvedoras)
@@ -163,6 +165,10 @@ Para realizar as requisições com os verbos GET, POST, PUT, DELETE use o framew
 
 Abra o insomnia e use o caminho (URL Base):
 http://localhost:3000/
+
+## 📥 Dados armazenados no Banco de Dados "pdv"
+Visualização dos dados armazenados no banco de dados "pdv" para obter uma visão abrangente do sistema de ponto de venda.
+Esses dados foram gerados após a aplicação dos endpoints do projeto, e representam a base essencial do sistema e demonstram a funcionalidade da API RESTful integrada ao Banco de Dados PostgreSQL, com recursos de segurança, como criptografia de senhas, para garantir a proteção dos dados.
 
 ## 🤝 Contribua com o Projeto
 
