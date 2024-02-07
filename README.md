@@ -74,7 +74,7 @@ npm install
 
 # 4. Execute o servidor
 
-npm run start
+npm run dev
 
 ```
 
