@@ -74,7 +74,7 @@ npm install
 
 # 4. Execute o servidor
 
-npm run dev
+npm run start
 
 ```
 
@@ -163,8 +163,15 @@ insert into categorias (descricao) values
 ## 📑 Endpoints no Insomnia
 Para realizar as requisições com os verbos GET, POST, PUT, DELETE use o framework Insomnia ou similar.
 
-Abra o insomnia e use o caminho (URL Base):
-http://localhost:3000/
+URL Base:
+- A API estará disponível em http://localhost:3000
+- A API estará disponivel, **por tempo limitado**, atravéz do link do deploy do projeto https://pdv-equipe-codein5.cyclic.app/
+
+
+- [ ] Listar Categorias - **GET**
+```javascript
+https://pdv-equipe-codein5.cyclic.app/categoria
+```
 
 ## 📥 Dados armazenados no Banco de Dados "pdv"
 Visualização dos dados armazenados no banco de dados "pdv" para obter uma visão abrangente do sistema de ponto de venda.
