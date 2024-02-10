@@ -175,6 +175,19 @@ https://pdv-equipe-codein5.cyclic.app/categoria
 
 <img src="./imgs/img1_ListarCategorias.png" >
 
+- [ ] Cadastrar Usuário - **POST**
+```javascript
+https://pdv-equipe-codein5.cyclic.app/usuario
+```
+```javascript
+// No body (JSON) preencher os dados da requisição:
+{
+	"nome": "Marcela",
+	"email": "marcela@email.com",
+	"senha": "1234"
+}
+```
+
 - [ ] Efetuar Login - **POST**
 ```javascript
 https://pdv-equipe-codein5.cyclic.app/login
