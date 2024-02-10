@@ -187,6 +187,8 @@ https://pdv-equipe-codein5.cyclic.app/login
 }
 ```
 
+<img src="./imgs/img2_EfetuarLogin.png" >
+
 ## 📥 Dados armazenados no Banco de Dados "pdv"
 Visualização dos dados armazenados no banco de dados "pdv" para obter uma visão abrangente do sistema de ponto de venda.
 Esses dados foram gerados após a aplicação dos endpoints do projeto, e representam a base essencial do sistema e demonstram a funcionalidade da API RESTful integrada ao Banco de Dados PostgreSQL, com recursos de segurança, como criptografia de senhas, para garantir a proteção dos dados.
