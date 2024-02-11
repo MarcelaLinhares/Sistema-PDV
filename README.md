@@ -182,11 +182,13 @@ https://pdv-equipe-codein5.cyclic.app/usuario
 ```javascript
 // No body (JSON) preencher os dados da requisição:
 {
-	"nome": "Marcela",
-	"email": "marcela@email.com",
+	"nome": "Marcela Linhares",
+	"email": "marcela.linhares@email.com",
 	"senha": "1234"
 }
 ```
+
+<img src="./imgs/img3_CadastrarUsuario.png" >
 
 - [ ] Efetuar Login - **POST**
 ```javascript
