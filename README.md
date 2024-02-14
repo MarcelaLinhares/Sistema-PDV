@@ -190,7 +190,7 @@ https://pdv-equipe-codein5.cyclic.app/usuario
 
 <img src="./imgs/img3_CadastrarUsuario.png" >
 
-- [ ] Efetuar Login - **POST**
+- [ ] Efetuar Login do Usuário - **POST**
 ```javascript
 https://pdv-equipe-codein5.cyclic.app/login
 ```
@@ -203,6 +203,15 @@ https://pdv-equipe-codein5.cyclic.app/login
 ```
 
 <img src="./imgs/img2_EfetuarLogin.png" >
+
+- [ ] Detalhar Perfil do Usuário Logado - **GET**
+```javascript
+https://pdv-equipe-codein5.cyclic.app/usuario
+```
+```javascript
+// No Auth (Bearer Token) colar o Token gerado no endpoint "Fazer Login do Usuário":
+TOKEN <colar-token-gerado-no-login-do-usuario>
+```
 
 ## 📥 Dados armazenados no Banco de Dados "pdv"
 Visualização dos dados armazenados no banco de dados "pdv" para obter uma visão abrangente do sistema de ponto de venda.
