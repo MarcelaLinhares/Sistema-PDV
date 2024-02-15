@@ -225,9 +225,9 @@ TOKEN <colar-token-gerado-no-login-do-usuario>
 ```javascript
 // No body (JSON) preencher os dados da requisição:
 {
-	"nome": "Débora",
-	"email": "debora@email.com",
-    "senha": "1234567"
+      "nome": "Débora",
+      "email": "debora@email.com",
+      "senha": "1234567"
 }
 ```
 
