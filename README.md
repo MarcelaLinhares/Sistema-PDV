@@ -241,13 +241,13 @@ TOKEN <colar-token-gerado-no-login-do-usuario>
 ```
 ```javascript
 // No body (MULTIPART FORM) adicionar os dados da requisição, e a imagem do produto (opcional):
-| Campo           | Valor               |
-|:----------------|---------------------:|
-| descricao       | Teclado sem Fio Intelbras |
-| quantidade_estoque | 15              |
-| valor           | 9800                |
-| categoria_id    | 1                   |
-| produto_imagem  | Teclado sem fio.png |
+| Campo             | Valor                     |
+|-------------------|---------------------------|
+| descricao         | Teclado sem Fio Intelbras |
+| quantidade_estoque| 15                        |
+| valor             | 9800                      |
+| categoria_id      | 1                         |
+| produto_imagem    | Teclado sem fio.png       |
 ```
 
 ## 📥 Dados armazenados no Banco de Dados "pdv"
