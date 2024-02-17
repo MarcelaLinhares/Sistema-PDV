@@ -209,7 +209,7 @@ https://pdv-equipe-codein5.cyclic.app/login
 https://pdv-equipe-codein5.cyclic.app/usuario
 ```
 ```javascript
-// No Auth (Bearer Token) colar o Token gerado no endpoint "Fazer Login do Usuário":
+// No Auth (Bearer Token) colar o Token gerado no endpoint "Efetuar Login do Usuário":
 TOKEN <colar-token-gerado-no-login-do-usuario>
 ```
 
@@ -219,7 +219,7 @@ TOKEN <colar-token-gerado-no-login-do-usuario>
 https://pdv-equipe-codein5.cyclic.app/usuario
 ```
 ```javascript
-// No Auth (Bearer Token) colar o Token gerado no endpoint "Fazer Login do Usuário":
+// No Auth (Bearer Token) colar o Token gerado no endpoint "Efetuar Login do Usuário":
 TOKEN <colar-token-gerado-no-login-do-usuario>
 ```
 ```javascript
@@ -236,7 +236,7 @@ TOKEN <colar-token-gerado-no-login-do-usuario>
 https://pdv-equipe-codein5.cyclic.app/produto
 ```
 ```javascript
-// No Auth (Bearer Token) colar o Token gerado no endpoint "Fazer Login do Usuário":
+// No Auth (Bearer Token) colar o Token gerado no endpoint "Efetuar Login do Usuário":
 TOKEN <colar-token-gerado-no-login-do-usuario>
 ```
 ```javascript
@@ -255,7 +255,7 @@ TOKEN <colar-token-gerado-no-login-do-usuario>
 https://pdv-equipe-codein5.cyclic.app/produto/8
 ```
 ```javascript
-// No Auth (Bearer Token) colar o Token gerado no endpoint "Fazer Login do Usuário":
+// No Auth (Bearer Token) colar o Token gerado no endpoint "Efetuar Login do Usuário":
 TOKEN <colar-token-gerado-no-login-do-usuario>
 ```
 ```javascript
