@@ -250,6 +250,26 @@ TOKEN <colar-token-gerado-no-login-do-usuario>
 | produto_imagem    | Teclado sem fio.png       |
 ```
 
+- [ ] Editar Dados do Produto - **PUT**
+```javascript
+https://pdv-equipe-codein5.cyclic.app/produto/8
+```
+```javascript
+// No Auth (Bearer Token) colar o Token gerado no endpoint "Fazer Login do Usuário":
+TOKEN <colar-token-gerado-no-login-do-usuario>
+```
+```javascript
+// No body (MULTIPART FORM) adicionar os dados da requisição, e a imagem do produto (opcional):
+| Campo             | Valor                     |
+|-------------------|---------------------------|
+| descricao         | Notebook Dell 2 em 1      |
+| quantidade_estoque| 2                         |
+| valor             | 1050000                   |
+| categoria_id      | 1                         |
+| produto_imagem    | notebook dell_2 em 1.png  |
+```
+
+
 ## 📥 Dados armazenados no Banco de Dados "pdv"
 Visualização dos dados armazenados no banco de dados "pdv" para obter uma visão abrangente do sistema de ponto de venda.
 Esses dados foram gerados após a aplicação dos endpoints do projeto, e representam a base essencial do sistema e demonstram a funcionalidade da API RESTful integrada ao Banco de Dados PostgreSQL, com recursos de segurança, como criptografia de senhas, para garantir a proteção dos dados.
