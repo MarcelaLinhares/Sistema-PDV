@@ -269,6 +269,21 @@ TOKEN <colar-token-gerado-no-login-do-usuario>
 | produto_imagem    | notebook dell_2 em 1.png  |
 ```
 
+- [ ] Listar Produto - **GET**
+```javascript
+https://pdv-equipe-codein5.cyclic.app/produto
+```
+```javascript
+// No Auth (Bearer Token) colar o Token gerado no endpoint "Efetuar Login do Usuário":
+TOKEN <colar-token-gerado-no-login-do-usuario>
+```
+```javascript
+// No Query preencher o filtro dos Produtos desejados (filtro opcional, na ausência a listagem é completa):
+| Campo             | Valor                     |
+|-------------------|---------------------------|
+| categoria_id      | 3                         |
+| categoria_id      | 7                         |
+```
 
 ## 📥 Dados armazenados no Banco de Dados "pdv"
 Visualização dos dados armazenados no banco de dados "pdv" para obter uma visão abrangente do sistema de ponto de venda.
