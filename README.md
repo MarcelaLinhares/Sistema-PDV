@@ -319,7 +319,7 @@ TOKEN <colar-token-gerado-no-login-do-usuario>
 	"cpf": "00011122292",
   	"cep": "21765235",
   	"rua": "Capitão Teixeira",
-    "numero": 132,
+        "numero": 132,
   	"bairro": "Realengo",
   	"cidade": "Rio de Janeiro",
   	"estado": "rj"
