@@ -342,7 +342,7 @@ TOKEN <colar-token-gerado-no-login-do-usuario>
 	"cpf": "00011122292",
   	"cep": "21765450",
   	"rua": "Rua da Alfandega",
-    "numero": 115,
+        "numero": 115,
   	"bairro": "Centro",
   	"cidade": "Rio de Janeiro",
   	"estado": "rj"
