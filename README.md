@@ -367,6 +367,32 @@ https://pdv-equipe-codein5.cyclic.app/cliente/38
 TOKEN <colar-token-gerado-no-login-do-usuario>
 ```
 
+- [ ] Cadastrar Pedido - **POST**
+```javascript
+https://pdv-equipe-codein5.cyclic.app/pedido
+```
+```javascript
+// No Auth (Bearer Token) colar o Token gerado no endpoint "Efetuar Login do Usuário":
+TOKEN <colar-token-gerado-no-login-do-usuario>
+```
+```javascript
+// No body (JSON) preencher os dados da requisição:
+{
+    "cliente_id": 38,
+    "observacao": "Em caso de ausência recomendo deixar com algum vizinho",
+    "pedido_produtos": [
+        {
+            "produto_id": 18,
+            "quantidade_produto": 1
+        },
+        {
+            "produto_id": 12,
+            "quantidade_produto": 1
+        }
+    ]
+}
+```
+
 ## 📥 Dados armazenados no Banco de Dados "pdv"
 Visualização dos dados armazenados no banco de dados "pdv" para obter uma visão abrangente do sistema de ponto de venda.
 Esses dados foram gerados após a aplicação dos endpoints do projeto, e representam a base essencial do sistema e demonstram a funcionalidade da API RESTful integrada ao Banco de Dados PostgreSQL, com recursos de segurança, como criptografia de senhas, para garantir a proteção dos dados.
