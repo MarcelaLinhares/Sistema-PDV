@@ -39,7 +39,7 @@ A RESTful API foi desenvolvida para atender às necessidades de um PDV (Frente d
 * Listar clientes
 * Detalhar cliente
 * Cadastrar pedido
-* Listar pedido
+* Listar pedidos
 
 ## 🛠 Linguagens e Ferramentas utilizadas
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -391,6 +391,15 @@ TOKEN <colar-token-gerado-no-login-do-usuario>
         }
     ]
 }
+```
+
+- [ ] Listar Pedidos - **GET**
+```javascript
+https://pdv-equipe-codein5.cyclic.app/pedido
+```
+```javascript
+// No Auth (Bearer Token) colar o Token gerado no endpoint "Efetuar Login do Usuário":
+TOKEN <colar-token-gerado-no-login-do-usuario>
 ```
 
 ## 📥 Dados armazenados no Banco de Dados "pdv"
