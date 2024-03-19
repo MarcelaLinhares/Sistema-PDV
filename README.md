@@ -213,6 +213,8 @@ https://pdv-equipe-codein5.cyclic.app/usuario
 TOKEN <colar-token-gerado-no-login-do-usuario>
 ```
 
+<img src="./imgs/img4_DetalharPerfilDoUsuario.png" >
+
 - [ ] Editar Perfil do Usuário Logado - **PUT**
 
 ```javascript
