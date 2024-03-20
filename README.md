@@ -166,6 +166,7 @@ Para realizar as requisições com os verbos GET, POST, PUT, DELETE use o framew
 URL Base:
 - A API estará disponível em http://localhost:3000
 - A API estará disponivel, **por tempo limitado**, atravéz do link do deploy do projeto https://pdv-equipe-codein5.cyclic.app/
+- **Os dados de usuários e clientes fornecidos nos endpoints abaixo são fictícios e usados apenas para ilustração.**
 
 
 - [ ] Listar Categorias - **GET**
