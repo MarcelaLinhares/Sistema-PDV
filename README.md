@@ -228,10 +228,12 @@ TOKEN <colar-token-gerado-no-login-do-usuario>
 // No body (JSON) preencher os dados da requisição:
 {
       "nome": "Débora",
-      "email": "debora@email.com",
+      "email": "debora1@email.com",
       "senha": "1234567"
 }
 ```
+
+<img src="./imgs/img5_EditarPerfilDoUsuario.png" >
 
 - [ ] Cadastrar Produto - **POST**
 ```javascript
