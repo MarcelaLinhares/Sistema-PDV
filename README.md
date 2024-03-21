@@ -255,6 +255,8 @@ TOKEN <colar-token-gerado-no-login-do-usuario>
 | produto_imagem    | Teclado sem fio.png       |
 ```
 
+<img src="./imgs/img6_CadastrarProduto.png" >
+
 - [ ] Editar Dados do Produto - **PUT**
 ```javascript
 https://pdv-equipe-codein5.cyclic.app/produto/8
