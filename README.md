@@ -276,6 +276,8 @@ TOKEN <colar-token-gerado-no-login-do-usuario>
 | produto_imagem    | notebook dell_2 em 1.png  |
 ```
 
+<img src="./imgs/img7_EditarDadosDoProduto.png" >
+
 - [ ] Listar Produto - **GET**
 ```javascript
 https://pdv-equipe-codein5.cyclic.app/produto
