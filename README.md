@@ -278,7 +278,7 @@ TOKEN <colar-token-gerado-no-login-do-usuario>
 
 <img src="./imgs/img7_EditarDadosDoProduto.png" >
 
-- [ ] Listar Produto - **GET**
+- [ ] Listar Produtos - **GET**
 ```javascript
 https://pdv-equipe-codein5.cyclic.app/produto
 ```
@@ -293,6 +293,8 @@ TOKEN <colar-token-gerado-no-login-do-usuario>
 | categoria_id      | 3                         |
 | categoria_id      | 7                         |
 ```
+
+<img src="./imgs/img8_ListarProdutos.png" >
 
 - [ ] Detalhar Produto - **GET**
 ```javascript
