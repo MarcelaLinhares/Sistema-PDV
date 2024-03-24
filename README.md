@@ -305,6 +305,8 @@ https://pdv-equipe-codein5.cyclic.app/produto/19
 TOKEN <colar-token-gerado-no-login-do-usuario>
 ```
 
+<img src="./imgs/img9_DetalharProduto.png" >
+
 - [ ] Excluir Produto por ID - **DELETE**
 ```javascript
 https://pdv-equipe-codein5.cyclic.app/produto/44
