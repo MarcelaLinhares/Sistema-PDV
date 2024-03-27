@@ -355,16 +355,18 @@ TOKEN <colar-token-gerado-no-login-do-usuario>
 // No body (JSON) preencher os dados da requisição:
 {
 	"nome": "Bruna",
-	"email": "bruna@email.com",
-	"cpf": "00011122292",
+	"email": "bruna1@email.com",
+	"cpf": "00011123392",
   	"cep": "21765450",
   	"rua": "Rua da Alfandega",
         "numero": 115,
   	"bairro": "Centro",
   	"cidade": "Rio de Janeiro",
-  	"estado": "rj"
+  	"estado": "RJ"
 }
 ```
+
+<img src="./imgs/img12_EditarDadosDoCliente.png" >
 
 - [ ] Listar Clientes - **GET**
 ```javascript
