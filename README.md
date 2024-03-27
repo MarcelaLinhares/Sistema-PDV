@@ -341,6 +341,8 @@ TOKEN <colar-token-gerado-no-login-do-usuario>
 }
 ```
 
+<img src="./imgs/img11_CadastrarCliente.png" >
+
 - [ ] Editar Dados do Cliente - **PUT**
 ```javascript
 https://pdv-equipe-codein5.cyclic.app/cliente/24
