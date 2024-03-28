@@ -377,7 +377,9 @@ https://pdv-equipe-codein5.cyclic.app/cliente
 TOKEN <colar-token-gerado-no-login-do-usuario>
 ```
 
-- [ ] Detalhar Clientes - **GET**
+<img src="./imgs/img13_ListarClientes.png" >
+
+- [ ] Detalhar Cliente - **GET**
 ```javascript
 https://pdv-equipe-codein5.cyclic.app/cliente/38
 ```
