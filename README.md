@@ -388,6 +388,8 @@ https://pdv-equipe-codein5.cyclic.app/cliente/38
 TOKEN <colar-token-gerado-no-login-do-usuario>
 ```
 
+<img src="./imgs/img14_DetalharCliente.png" >
+
 - [ ] Cadastrar Pedido - **POST**
 ```javascript
 https://pdv-equipe-codein5.cyclic.app/pedido
