@@ -416,6 +416,8 @@ TOKEN <colar-token-gerado-no-login-do-usuario>
 }
 ```
 
+<img src="./imgs/img15_CadastrarPedido.png" >
+
 - [ ] Listar Pedidos - **GET**
 ```javascript
 https://pdv-equipe-codein5.cyclic.app/pedido
