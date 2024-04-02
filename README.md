@@ -12,8 +12,6 @@
 
 - [Endpoints no Insomnia](#-endpoints-no-insomnia)
 
-- [Dados armazenados no Banco de Dados "pdv"](#-dados-armazenados-no-banco-de-dados-pdv)
-
 - [Contribua com o Projeto](#-contribua-com-o-projeto)
 
 - [Desenvolvedoras](#-desenvolvedoras)
